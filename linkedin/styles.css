@@ -150,6 +150,7 @@ pre {
   border-radius: 4px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  font-size: 1.1rem;
 }
 #contact-form button:hover {
   background-color: #083f60;

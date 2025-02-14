@@ -2,9 +2,9 @@
 window.onload = function() {
 
     // Map
-    var iframeSource = "./linkedin/map_small.html";
+    var iframeSource = "map_small.html";
     if (window.innerWidth > 600) {
-        iframeSource = "./linkedin/map_large.html";
+        iframeSource = "map_large.html";
     }
     document.getElementById('mapframe').src = iframeSource;
 

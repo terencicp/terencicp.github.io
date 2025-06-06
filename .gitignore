@@ -1,2 +1,16 @@
-
+/node_modules
+/dist
+.vite
+.vite-ssg-temp
+npm-debug.log*
+yarn-error.log
+yarn-debug.log
+pnpm-debug.log*
+lerna-debug.log
+.env
+.env.local
+.env.*.local
 .DS_Store
+Thumbs.db
+.idea/
+.vscode/

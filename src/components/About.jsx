@@ -13,7 +13,7 @@ const About = () => (
           Hello! My name is <strong className="text-sky-600">Terry</strong>, I started in tech 10 years ago as a solopreneur, building <strong className="text-sky-600">web and mobile apps</strong> on my own. Later, I realized that social network data is extremely valuable, which led me to <strong className="text-sky-600">study Data Science</strong>. I love transforming raw data into usable insights that can drive business value.
         </p>
         <p>
-          I recently <strong className="text-sky-600">completed my Data Science degree</strong>, with a thesis focused on <strong className="text-sky-600">topic modeling for social networks</strong>. Last summer I interned at <strong className="text-sky-600">Dow Jones</strong> where I contributed to an <strong className="text-sky-600">AI engineering project</strong>. Currently, I'm working as a <strong className="text-sky-600">Full Stack JavaScript Web Developer</strong>, building a custom <strong className="text-sky-600">ERP solution</strong> for a retail client using <strong className="text-sky-600">React and Next.js</strong>.
+          I recently completed my <strong className="text-sky-600">Data Science degree</strong>, with a thesis focused on topic modeling for social networks. Last summer I interned at Dow Jones where I contributed to an <strong className="text-sky-600">AI engineering</strong> project. Currently, I'm working as a <strong className="text-sky-600">Full Stack Web Developer</strong> using JavaScript, building a custom ERP solution for a retail client using React and Next.js.
         </p>
       </div>
     </div>

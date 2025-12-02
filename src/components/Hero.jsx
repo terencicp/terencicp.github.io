@@ -82,7 +82,7 @@ const Hero = () => {
       
       <div className="z-10">
         <img 
-          src="/terenci-fake-min-nobg.png" 
+          src="/terenci-banana-min.png" 
           alt="Terenci Claramunt" 
           className="w-32 h-32 md:w-40 md:h-40 rounded-full mx-auto mb-6 border-4 border-sky-300 shadow-xl transition-transform duration-500 hover:scale-105"
           onError={(e) => { e.target.onerror = null; e.target.src="https://placehold.co/160x160/E0F2FE/0EA5E9?text=TC"; }}

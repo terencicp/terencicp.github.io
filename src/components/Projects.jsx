@@ -1,8 +1,25 @@
 import React from 'react';
-import { Briefcase, Github, ShoppingCart, Bot, Table, BarChartBig, Share2, Globe, Notebook, LayoutDashboard, Linkedin } from 'lucide-react';
+import { MessagesSquare, Briefcase, Github, ShoppingCart, Bot, Table, BarChartBig, Share2, Globe, Notebook, LayoutDashboard, Linkedin } from 'lucide-react';
 import AnimatedSection from './AnimatedSection';
 
 const projectsData = [
+  {
+    id: 7,
+    icon: MessagesSquare,
+    title: "Mastodon topic modeling",
+    category: "Natural Language Processing",
+    description: "Automated pipeline that identifies and summarizes trending topics on Mastodon daily using BERTopic.",
+    technologies: ["Python", "BERTopic", "Ollama"],
+    buttons: [{
+      icon: Github,
+      label: "Code",
+      url: "https://github.com/terencicp/mastodon-topics"
+    }, {
+      icon: Globe,
+      label: "Demo",
+      url: "https://mastodon-topics.streamlit.app/"
+    }] 
+  },
   {
     id: 1,
     icon: ShoppingCart,

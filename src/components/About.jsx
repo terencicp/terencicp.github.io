@@ -10,7 +10,7 @@ const About = () => (
       </h2>
       <div className="text-slate-700 text-lg space-y-6">
         <p>
-          Hello! My name is <strong className="text-sky-600">Terry</strong>, I started in tech 10 years ago as a solopreneur, building <strong className="text-sky-600">web and mobile apps</strong> on my own. Later, I realized that social network data is extremely valuable, which led me to <strong className="text-sky-600">study Data Science</strong>. I love transforming raw data into usable insights that can drive business value.
+          Hello! My name is <strong className="text-sky-600">Terry</strong>, I started in tech 10 years ago as a solopreneur, <strong className="text-sky-600">building web and mobile apps</strong> on my own. Later, I realized that social network data is extremely valuable, which led me to study Data Science. I love transforming raw data into usable insights that can drive business value.
         </p>
         <p>
           I recently completed my <strong className="text-sky-600">Data Science degree</strong>, with a thesis focused on topic modeling for social networks. Last summer I interned at Dow Jones where I contributed to an <strong className="text-sky-600">AI engineering</strong> project. Currently, I'm working as a <strong className="text-sky-600">Full Stack Web Developer</strong> using JavaScript, building a custom ERP solution for a retail client using React and Next.js.

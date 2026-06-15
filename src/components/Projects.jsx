@@ -13,10 +13,32 @@ import {
   LayoutDashboard,
   Linkedin,
   Utensils,
+  GraduationCap,
 } from "lucide-react";
 import AnimatedSection from "./AnimatedSection";
 
 const projectsData = [
+  {
+    id: 9,
+    icon: GraduationCap,
+    title: "React SaaS course",
+    category: "Web development course",
+    description:
+      "In-depth web development course for junior devs, taught through web lessons with diagrams, exercises and YouTube videos.",
+    technologies: ["JavaScript", "Astro", "Starlight"],
+    buttons: [
+      {
+        icon: Github,
+        label: "Code",
+        url: "https://github.com/terencicp/react-saas-course",
+      },
+      {
+        icon: Globe,
+        label: "Course",
+        url: "https://react-saas-course.pages.dev/",
+      },
+    ],
+  },
   {
     id: 8,
     icon: Utensils,
